@@ -1,0 +1,5 @@
+package com.rest.example.controler;
+
+public class TutorialController {
+
+}

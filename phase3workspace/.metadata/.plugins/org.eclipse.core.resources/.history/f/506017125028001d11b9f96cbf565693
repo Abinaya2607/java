@@ -1,0 +1,5 @@
+package com.project.SpringSecurity.repositories;
+
+public class UsersRepository {
+
+}

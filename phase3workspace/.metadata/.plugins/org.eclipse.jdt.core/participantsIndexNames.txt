@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\javafsd\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3446438742.index
+\SpringBootProject\src\main\java
+C:\javafsd\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3548612034.index
+\SpringSecurity\src\main\java
+C:\javafsd\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\111009703.index
+\Authentication\src\main\java
+C:\javafsd\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2925325231.index
+\Authentication\src\main\java
+C:\javafsd\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4218063375.index
+\SpringSecurity\src\main\java

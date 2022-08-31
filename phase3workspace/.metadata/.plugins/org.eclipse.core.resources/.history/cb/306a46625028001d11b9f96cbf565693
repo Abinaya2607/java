@@ -1,0 +1,5 @@
+package com.project.SpringSecurity;
+
+public class MvcConfig {
+
+}

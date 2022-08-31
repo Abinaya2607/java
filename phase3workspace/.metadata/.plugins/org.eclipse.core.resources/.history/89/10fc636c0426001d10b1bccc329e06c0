@@ -1,0 +1,8 @@
+spring.mvc.view.prefix=/WEB-INF/jsp/
+spring.jpa.hibernate.ddl-auto=update
+spring.datasource.url=jdbc:mysql://${MYSQL_HOST:localhost}:3306/cred
+spring.datasource.username=root
+spring.datasource.password=abi2607
+logging.level.org.springframework.web: DEBUG
+server.port=8080
+server.error.whitelabel.enabled=false

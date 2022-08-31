@@ -1,0 +1,21 @@
+package com.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.MediaType;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import com.service.AppService;
+
+@Controller
+public class FeedbackController {
+	
+	@Autowired
+	private AppService appService;
+	
+	@PostMapping(value = "feedback", consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
+	public String feedback() {
+		return "feedback";
+	}
+}

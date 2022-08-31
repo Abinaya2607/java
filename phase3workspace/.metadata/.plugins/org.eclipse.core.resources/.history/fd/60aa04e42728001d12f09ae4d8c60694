@@ -1,0 +1,5 @@
+package com.rest.example.model;
+
+public class Tutorial {
+
+}
